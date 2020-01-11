@@ -1,4 +1,4 @@
-# Neumorphic Dropdown Web Component
+# Neumorphic Web Component Dropdown 
 
 ## Usage
 
